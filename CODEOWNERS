@@ -1,0 +1,21 @@
+# Code Owners for Grapzig
+# These owners will be requested for review when someone opens a pull request
+
+# Default owner for everything
+* @yousif-wali
+
+# Core library
+/src/ @yousif-wali
+
+# Examples
+/examples/ @yousif-wali
+
+# Documentation
+*.md @yousif-wali
+
+# Build system
+/build.zig @yousif-wali
+/build.zig.zon @yousif-wali
+
+# CI/CD
+/.github/ @yousif-wali
